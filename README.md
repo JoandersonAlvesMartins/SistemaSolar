@@ -1,2 +1,2 @@
 # SistemaSolar
-Projeto acadêmico de classificação do sistema solar em php
+Projeto acadêmico de classificação do sistema solar em php estruturado.
